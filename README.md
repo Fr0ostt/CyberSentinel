@@ -5,6 +5,7 @@ CyberSentinel protège votre serveur Discord contre les attaques, liens suspects
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/tonpseudo/sentinel-bot.git
+git clone https://github.com/Fr0ostt/CyberSentinel.git
 cd sentinel-bot
 pip install -r requirements.txt
+
